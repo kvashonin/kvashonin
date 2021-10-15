@@ -8,5 +8,5 @@ Hi! My name is Kirill. I am a frontend developer at [~~Studio107~~](https://stud
 - Twitter: [https://twitter.com/etozhkirill](https://twitter.com/etozhkirill)
 - Instagram: [https://www.instagram.com/etozhkirill](https://www.instagram.com/etozhkirill)
 
-You are <img src="https://www.websitecounterfree.com/c1.php?d=7&id=16335&s=4" /> visitor.  
+You are <img src="https://www.websitecounterfree.com/c.php?d=7&id=16335&s=4" /> visitor.  
 Have a great day!
