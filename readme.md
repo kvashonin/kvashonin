@@ -6,7 +6,7 @@ Hi! My name is Kirill. I am a frontend developer at [~~Studio107~~](https://stud
 
 - Telegram: [https://t.me/kvashonin](https://t.me/kvashonin)
 - Twitter: [https://twitter.com/kvashonin](https://twitter.com/kvashonin)
-- Instagram: [https://www.instagram.com/k.kvashonin](https://www.instagram.com/k.kvashonin)
+- Instagram: [https://www.instagram.com/kirkvashonin](https://www.instagram.com/kirkvashonin)
 
 You are <img src="https://www.websitecounterfree.com/c.php?d=7&id=16335&s=4" /> visitor.  
 Have a great day!
